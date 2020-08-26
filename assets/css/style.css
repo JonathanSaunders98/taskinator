@@ -81,8 +81,7 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
   margin: 25px auto;
-  width: 100%;
-  background-color: lightgray;
+  width: 95%;
 }
 
 .task-list-wrapper {
